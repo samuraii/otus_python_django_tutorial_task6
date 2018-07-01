@@ -3,3 +3,4 @@
 env/
 __pycache__
 .chache
+shop/goods/static/.DS_Store

@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    background-color: ivory;
+}
+
+.good-link {
+    width: 150px;
+    height: 150px;
+}
+
+.good-image {
+    width: 150px;
+    height: 150px;
+}
